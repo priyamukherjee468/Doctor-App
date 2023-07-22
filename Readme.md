@@ -23,5 +23,5 @@ Function used in
 * PasswordEncrypter
 * Patient
 
-Data Structure Used: List
+
 
