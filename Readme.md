@@ -1,13 +1,24 @@
-### Doctor-App
+# Doctor API
 _______
 
 
-### Requirements
-* IntellijIDEA
-* ServerPort: 8080(localhost:8080)
-* JavaVersion: 17
-* pom.xml file(no need to download external library)
-* Dependencies used:lombok,Spring web,h2 database,Spring data jpa.
+## Framework Used
+* Spring Boot
+----
+## Dependencies
+The following dependencies are required to run the project:
+
+
+* Spring Web
+* Spring Data JPA
+* MySQL Driver
+* Lombok
+* Validation
+* Swagger
+ ----
+## Language used
+* Java (Version: 17)
+----
 
 ### Data Flow
 Function used in
