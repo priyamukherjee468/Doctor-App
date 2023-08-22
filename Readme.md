@@ -20,7 +20,6 @@ Function used in
 * Appointment
 * AuthenticationToken
 * Doctor
-* PasswordEncrypter
 * Patient
 
 
