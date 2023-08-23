@@ -46,10 +46,13 @@ spring.jpa.properties.hibernate.use_sql_comments=true
 spring.jpa.properties.hibernate.format_sql=true
 
 ```
-<br>
+
 ## Language used
-* Java (Version: 17)
-----
+
+```
+Java (Version: 17)
+ ```
+
 ## Data Model
 
 <br>
